@@ -329,7 +329,7 @@ img {
     height: 300px;
     width: 600px;
 }
-@media only screen and (max-width: 1524px) {
+@media only screen and (max-width: 1000px) {
     .dd {
         flex-direction: column;
     }
@@ -349,11 +349,12 @@ img {
         list-style: none;
         text-decoration: none;
         padding: 0;
+        width: 40vw;
     }
 
-    .mc {
+    /* .mc {
         left: 119px;
-    }
+    } */
 
     .d28 {
         flex-direction: column;
@@ -362,7 +363,9 @@ img {
     .ad2 {
         left: -81px;
         flex-direction: column;
-        top: 69px;
+        top: -8px;
+        height: 151px;
+        width: 282px;
 
     }
 
@@ -401,13 +404,14 @@ img {
     }
 
     .btn {
-        right: -261px;
-        bottom: 83px;
+        right: -86px;
+        bottom: 1px;
     }
+
 
     .d3 img {
 
-        width: 45vw;
+        width: 32vw;
         /* margin-left: 408px; */
         height: 32vw;
     }
@@ -415,11 +419,12 @@ img {
     .d22 {
         /* margin-left: 573px; */
         padding: 0 10px 10px 10px;
+        margin: 0;
     }
 
     .d3 {
         display: flex;
-        justify-content: center;
+        /* justify-content: center; */
     }
 
     .ad1 {
@@ -427,30 +432,32 @@ img {
         left: -79px;
     }
 
-    .a1 {
+    /* .a1 {
         margin-left: 39px;
         margin-top: 6px;
         margin-right: 22px;
         padding-bottom: 10px;
-    }
+    } */
 
     .mc {
 
-        width: 300px;
+        width: 40vw;
+
     }
 
     header {
 
-        width: 100vw;
+        width: 100%;
     }
 
     .we {
         display: inline;
+        width: 72vw;
     }
 
     .lp img {
 
-        width: 90vw;
+        width: 80vw;
         height: 50vw;
     }
 
@@ -461,5 +468,55 @@ img {
         position: relative;
         right: -229px;
         top: -37px;
+    }
+
+    .ad1 {
+        height: 151px;
+        width: 282px;
+    }
+
+    s img {
+        display: flex;
+        position: relative;
+        left: 49px;
+    }
+
+    .a1 {
+        margin-left: -77px;
+        margin-top: 0px;
+        margin-right: -12px;
+        padding-bottom: 13px;
+    }
+
+    .s h2 {
+        display: flex;
+        width: 100vw;
+        height: 100px;
+        position: relative;
+        justify-content: center;
+        left: -16px;
+        margin-top: -215px;
+        margin-bottom: 31px;
+        align-items: center;
+        top: 248px;
+        padding-left: 25px;
+    }
+
+    .s img {
+        display: flex;
+        position: relative;
+        left: -25px;
+        right: 400px;
+    }
+
+
+    .ad1 img {
+        height: 25vw;
+        width: 25vw;
+    }
+
+    .ad2 img {
+        height: 25vw;
+        width: 25vw;
     }
 }
