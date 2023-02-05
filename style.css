@@ -442,6 +442,7 @@ img {
     .mc {
 
         width: 40vw;
+        margin-bottom: 25px;
 
     }
 
@@ -466,7 +467,7 @@ img {
         width: 25px;
         height: 25px;
         position: relative;
-        right: -229px;
+        right: -158px;
         top: -37px;
     }
 
@@ -486,6 +487,16 @@ img {
         margin-top: 0px;
         margin-right: -12px;
         padding-bottom: 13px;
+    }
+
+    .we input {
+        padding-top: 2px;
+        margin-top: 10px;
+        padding-left: 5px;
+        height: 31px;
+        margin-left: 10px;
+        width: 108px;
+        height: 24px;
     }
 
     .s h2 {
@@ -511,12 +522,13 @@ img {
 
 
     .ad1 img {
-        height: 25vw;
-        width: 25vw;
+        height: 20vw;
+        width: 45vw;
+        margin-top: 25px;
     }
 
     .ad2 img {
-        height: 25vw;
-        width: 25vw;
+        height: 20vw;
+        width: 45vw;
     }
 }
