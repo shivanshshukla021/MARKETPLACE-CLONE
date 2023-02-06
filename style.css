@@ -383,11 +383,9 @@ img {
     }
 
     .d28 img {
-        height: 50vw;
-        width: 50vw;
         display: flex;
         position: relative;
-        left: 73px;
+        left: 140px;
     }
 
     .sss {
@@ -407,8 +405,9 @@ img {
     }
 
     .btn {
-        right: -86px;
-        bottom: 1px;
+        right: -107px;
+        bottom: 37px;
+
     }
 
 
@@ -498,7 +497,7 @@ img {
         padding-left: 5px;
         height: 31px;
         margin-left: 10px;
-        width: 108px;
+        width: 175px;
         height: 24px;
     }
 
@@ -519,19 +518,21 @@ img {
     .s img {
         display: flex;
         position: relative;
-        left: -25px;
+        left: 122px;
         right: 400px;
+
     }
 
 
     .ad1 img {
-        height: 20vw;
-        width: 45vw;
-        margin-top: 25px;
+        height: 31vw;
+        width: 54vw;
+        margin-top: 1px;
     }
 
     .ad2 img {
-        height: 20vw;
-        width: 45vw;
+        height: 29vw;
+        width: 55vw;
+        margin-top: 2px;
     }
 }
