@@ -412,16 +412,17 @@ img {
 
 
     .d3 img {
-
-        width: 32vw;
+        width: 50vw;
         /* margin-left: 408px; */
-        height: 32vw;
+        height: 50vw;
+      }
     }
 
     .d22 {
-        margin: 17px;
+        margin: 3px;
         border: 2px solid black;
         padding-top: 25px;
+        width: 20vw;
         
     }
     .d22:hover{
@@ -545,4 +546,3 @@ img {
         width: 55vw;
         margin-top: 2px;
     }
-}
