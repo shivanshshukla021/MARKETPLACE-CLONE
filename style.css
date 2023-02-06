@@ -293,6 +293,13 @@ img {
     /* right: 400px; */
 
 }
+.d22{
+    background-color: rgba(52, 95, 133, 0.147);
+    border: 2px solid rgba(91, 224, 180, 0.515);
+    margin-left: 12px;
+padding: 0px 9px 9px 10px;
+width: 186px;
+}
 
 /* .sss img{
     display: inline;
