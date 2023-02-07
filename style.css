@@ -155,6 +155,7 @@ img {
     margin-top: 5px;
     position: relative;
     left: 5px;
+    
 
 }
 
@@ -279,11 +280,17 @@ img {
 .d2 {
     margin-top: 18px;
     margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
 }
 
 .d2:hover {
-    background-color: rgba(156, 12, 129, 0.607);
-    ;
+    /* background-color: rgba(103, 81, 99, 0.607);
+     
+    c*/
+
+    color: antiquewhite;
 }
 
 .s img {
@@ -298,7 +305,7 @@ img {
     border: 2px solid rgba(91, 224, 180, 0.515);
     margin-left: 12px;
 padding: 0px 9px 9px 10px;
-width: 186px;
+width: 180px;
 }
 
 /* .sss img{
@@ -317,7 +324,7 @@ width: 186px;
     width: 600px; */
     /* background-color: rgba(81, 85, 85, 0.428); */
     position: relative;
-    left: 50px;
+    left: 1px;
 }
 
 .ad2 {
@@ -326,7 +333,7 @@ width: 186px;
     width: 600px; */
     /* background-color: rgba(192, 193, 189, 0.452); */
     position: relative;
-    left: 300px;
+    left: 274px;
 }
 
 .d28 {
@@ -429,8 +436,7 @@ width: 186px;
         margin: 3px;
         border: 2px solid black;
         padding-top: 25px;
-        width: 20vw;
-
+        width: 31vw;
     }
 
     .d22:hover {
