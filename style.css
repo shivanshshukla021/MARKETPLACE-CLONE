@@ -155,7 +155,7 @@ img {
     margin-top: 5px;
     position: relative;
     left: 5px;
-    
+
 
 }
 
@@ -300,12 +300,13 @@ img {
     /* right: 400px; */
 
 }
-.d22{
+
+.d22 {
     background-color: rgba(52, 95, 133, 0.147);
     border: 2px solid rgba(91, 224, 180, 0.515);
     margin-left: 12px;
-padding: 0px 9px 9px 10px;
-width: 180px;
+    padding: 0px 9px 9px 10px;
+    width: 180px;
 }
 
 /* .sss img{
@@ -413,9 +414,9 @@ width: 180px;
     .lp {
         display: flex;
         justify-content: center;
-        top: 280px;
+        top: 157px;
         position: relative;
-        margin-bottom: 280px;
+        margin-bottom: 155px;
     }
 
     .btn {
@@ -433,10 +434,11 @@ width: 180px;
 
 
     .d22 {
-        margin: 3px;
+        margin: 11px;
         border: 2px solid black;
         padding-top: 25px;
-        width: 31vw;
+        width: 37vw;
+        height: 62px;
     }
 
     .d22:hover {
@@ -468,7 +470,11 @@ width: 180px;
     .mc {
 
         width: 40vw;
-        margin-bottom: 25px;
+        margin-bottom: 13px;
+        bottom: 14px;
+        display: flex;
+        position: relative;
+        top: -36px;
 
     }
 
@@ -484,7 +490,7 @@ width: 180px;
 
     .lp img {
 
-        width: 80vw;
+        width: 98vw;
         height: 50vw;
     }
 
