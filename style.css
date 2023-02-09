@@ -414,9 +414,9 @@ img {
     .lp {
         display: flex;
         justify-content: center;
-        top: 157px;
+        top: 112px;
         position: relative;
-        margin-bottom: 155px;
+        margin-bottom: 109px;
     }
 
     .btn {
@@ -470,11 +470,11 @@ img {
     .mc {
 
         width: 40vw;
-        margin-bottom: 13px;
-        bottom: 14px;
-        display: flex;
-        position: relative;
-        top: -36px;
+margin-bottom: -28px;
+bottom: 14px;
+display: flex;
+position: relative;
+top: -36px;
 
     }
 
